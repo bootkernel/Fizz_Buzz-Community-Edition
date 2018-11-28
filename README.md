@@ -1,2 +1,3 @@
-# Fizz_Buzz-Community-Edition
-A Simple Fizz_Buzz Program
+# FizzBuzz Community Edition
+
+A Simple FizzBuzz Program
