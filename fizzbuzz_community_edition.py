@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-i=1
+i = 1
 # A simple while loop
 while i <= 100:
     # % denotes remainder. So, if the remainder of 3 is 0 it'll print Fizz
