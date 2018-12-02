@@ -1,3 +1,3 @@
 # FizzBuzz Community Edition
 
-A Simple FizzBuzz Program
+Just a simple FizzBuzz Program
